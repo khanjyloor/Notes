@@ -19,10 +19,8 @@
  ```
 
  To check the configuration file in verbose mode:
-    ```
-      nagios3 -v /etc/nagios3/nagios.cfg
-    ```
+    ` nagios3 -v /etc/nagios3/nagios.cfg `
+
+
  Restart the nagios service as root:
-    ```
-      service nagios3 restart
-    ```
+    ` service nagios3 restart `
